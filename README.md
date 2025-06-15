@@ -44,3 +44,8 @@ index.html (51)
 
 홈페이지 주소 : https://tjwlsl2.github.io/tjwlsl2/
 테마 출처: START BOOTSTRAP
+사진 출처: 1. https://blog.naver.com/jbw05010/222650560609
+2. https://blog.naver.com/sy_may/50041485236
+3. https://pixabay.com/ko/illustrations/%EB%86%8D%EA%B5%AC-%EA%B3%B5-%EC%8A%A4%ED%8F%AC%EC%B8%A0-%EA%B2%8C%EC%9E%84-%EB%86%80%EC%9D%B4-4875691/
+4. https://blog.naver.com/smileandhappy123/222629714767
+5. https://blog.naver.com/code_maru/223493588284
